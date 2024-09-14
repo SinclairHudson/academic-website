@@ -17,23 +17,18 @@ Education
   * Artificial intelligence specialization
   * Co-operative program, 6 4-month coop placements
 
-<!--Work experience-->
-<!--======-->
-<!--* Spring 2024: Academic Pages Collaborator-->
-  <!--* Github University-->
-  <!--* Duties includes: Updates and improvements to template-->
-  <!--* Supervisor: The Users-->
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-<!--* Fall 2015: Research Assistant-->
-  <!--* Github University-->
-  <!--* Duties included: Merging pull requests-->
-  <!--* Supervisor: Professor Hub-->
+Experience
+======
+  <ul>{% for post in site.experience reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-<!--* Summer 2015: Research Assistant-->
-  <!--* Github University-->
-  <!--* Duties included: Tagging issues-->
-  <!--* Supervisor: Professor Git-->
-  
 Skills
 ======
 * Research
@@ -44,29 +39,3 @@ Skills
   * Version control/git
   * Object oriented design
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Experience
-======
-  <ul>{% for post in site.experience reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!--Talks-->
-<!--======-->
-  <!--<ul>{% for post in site.talks reversed %}-->
-    <!--{% include archive-single-talk-cv.html  %}-->
-  <!--{% endfor %}</ul>-->
-<!--Teaching-->
-<!--======-->
-  <!--<ul>{% for post in site.teaching reversed %}-->
-    <!--{% include archive-single-cv.html %}-->
-  <!--{% endfor %}</ul>-->
-  
-<!--Service and leadership-->
-<!--======-->
-<!--* Currently signed in to 43 different slack teams-->
