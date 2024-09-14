@@ -30,5 +30,4 @@ Based on our clock-cycle estimations, it would remove the CPU bottleneck complet
 
 ## Vim era
 This is also where I started learning how to use vim, and how to use vim properly.
-Big shout out to my mentor Ingo; he showed me what 20 years of vim experience looks like, and encouraged me constantly. :goat:
-
+Big shout out to my mentor Ingo; he showed me what 20 years of vim experience looks like, and encouraged me constantly. 🐐
