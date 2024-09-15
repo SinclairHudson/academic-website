@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Sinclair, and I'm currently pursuing a Master's of Applied Computing at the University of Toronto. I complete my degree requirements in December 2024 and will receive my diploma in May 2024. I'm doing research with NVIDIA, exploring self-supervised learning for autonomous vehicles. In May 2023, I completed my Bachelor's of Computer Science at the University of Waterloo, with 6 internships.
+I'm Sinclair, and I'm currently pursuing a Master's of Applied Computing at the University of Toronto. I complete my degree requirements in **December 2024** and will receive my diploma in May 2024. I'm doing research with NVIDIA, exploring self-supervised learning for autonomous vehicles. In May 2023, I completed my Bachelor's of Computer Science at the University of Waterloo, with 6 internships.
 
 My current (2024 Q3) research interests include:
 
-* 🚙 Robotics (specifically autonomous vehicles)
 * 🏋️ Self-supervised learning and unsupervised learning
+* 🚙 Robotics (specifically autonomous vehicles)
 * 🔊 ML for audio (specifically spoken language processing)
 * 🎨 AI for creative and artistic applications
 

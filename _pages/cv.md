@@ -13,9 +13,11 @@ Education
 ======
 * M.S. in Applied Computing, University of Toronto, 2025
   * Artificial intelligence concentration
+  * Courses in Natural Language Processing, Spoken Language Processing, Advanced Data Systems, Software Engineering for Machine Learning.
 * B.S. in Computer Science, University of Waterloo, 2023
   * Artificial intelligence specialization
   * Co-operative program, 6 4-month coop placements
+  * Courses in Artificial Intelligence, Machine Learning, Autonomous Vehicles, Networks
 
 Publications
 ======

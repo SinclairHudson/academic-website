@@ -2,7 +2,8 @@
 title: "Software Engineer at UntetherAI"
 collection: experience
 permalink: /experience/2020-untetherai
-date: 2022-01-01
+date_start: 2020-09-03
+date_end: 2022-12-22
 location: "Remote in Canada"
 ---
 
